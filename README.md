@@ -13,8 +13,13 @@ This repository was created to store my automation codes in Python. It contains 
 ## Technologies Used
 
 1 - _Pandas:_ Data manipulation and analysis.
+
 2 - _Requests:_ API integration.
+
 3 - _tabula-py:_ PDF table extraction.
+
 4 - _openpyxl:_ Excel file manipulation.
+
 5 - _slack-sdk:_ Slack integration.
+
 6 - _schedule:_ Task scheduling automation.
