@@ -1,4 +1,4 @@
-# python-automation
+# Python-automation
 This repository was created to store my automation codes in Python. It contains various scripts aimed at automating repetitive tasks and improving efficiency, particularly in technology and finance contexts.
 
 ## Features
