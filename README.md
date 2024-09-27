@@ -3,8 +3,11 @@ This repository was created to store my automation codes in Python. It contains 
 
 ## Features
 • **Task automation:** Scripts that automate manual processes, saving time and reducing errors.
+
 • **Data manipulation:** Integration with files such as Excel, CSV, PDFs, etc.
+
 • **API Integration:** Automation of data queries and submissions via RESTful APIs.
+
 • **Slack notifications:** Integration with Slack for automatic notifications about process statuses.
  
 ## Technologies Used
